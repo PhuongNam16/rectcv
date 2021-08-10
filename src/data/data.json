@@ -1,0 +1,94 @@
+{
+    "imageData": [
+        {
+            "id": "1",
+            "img": "https://demo.themesuccess.com/templates/rectcv/assets/images/dark_particle.png",
+            "title": "Dark Layout with Graphics and Particles Background"
+        },
+        {
+            "id": "2",
+            "img": "https://demo.themesuccess.com/templates/rectcv/assets/images/light_particle.png",
+            "title": "Light Layout with Graphics and Particles Background"
+        },
+        {
+            "id": "3",
+            "img": "https://demo.themesuccess.com/templates/rectcv/assets/images/dark_background_mono.png",
+            "title": "Dark Mono Layout with Background"
+        },
+        {
+            "id": "4",
+            "img": "https://demo.themesuccess.com/templates/rectcv/assets/images/light_background_mono.png",
+            "title": "Light Mono Layout with Background"
+        },
+        {
+            "id": "5",
+            "img": "https://demo.themesuccess.com/templates/rectcv/assets/images/dark_particle.png",
+            "title": "Dark Layout with Particles Background"
+        },
+        {
+            "id": "6",
+            "img": "https://demo.themesuccess.com/templates/rectcv/assets/images/light_particle.png",
+            "title": "Light Layout with Particles Background"
+        },
+        {
+            "id": "7",
+            "img": "https://demo.themesuccess.com/templates/rectcv/assets/images/dark_parallax.png",
+            "title": "Dark Layout with Parallax Background"
+        },
+        {
+            "id": "8",
+            "img": "https://demo.themesuccess.com/templates/rectcv/assets/images/light_parallax.png",
+            "title": "Light Layout with Parallax Background"
+        }
+    ],
+    "innerPages": [
+        {
+            "id": "1",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/1.jpg"
+        },
+        {
+            "id": "2",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/2.jpg"
+        },
+        {
+            "id": "3",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/3.jpg"
+        },
+        {
+            "id": "4",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/4.jpg"
+        },
+        {
+            "id": "5",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/5.jpg"
+        },
+        {
+            "id": "6",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/6.jpg"
+        },
+        {
+            "id": "7",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/7.jpg"
+        },
+        {
+            "id": "8",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/8.jpg"
+        },
+        {
+            "id": "9",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/9.jpg"
+        },
+        {
+            "id": "10",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/10.jpg"
+        },
+        {
+            "id": "11",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/11.jpg"
+        },
+        {
+            "id": "12",
+            "img": "https://www.radiustheme.com/demo/html/digeco/img/inner-pages/12.jpg"
+        }
+    ]
+}

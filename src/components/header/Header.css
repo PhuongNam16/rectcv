@@ -1,0 +1,26 @@
+
+.navbar-header{
+    justify-content: space-between;
+    background-color: var(--primary-bg-main);
+    height:54px;
+    z-index: 100;
+    /* position:fixed;
+    top: 0;
+    width: 100%;
+    margin-bottom: 1px; */
+}
+.preview_logo{
+    padding: 0 20px;
+}
+.btn-buy {
+    -webkit-box-shadow: 0 2px 0 #6f9a37;
+    box-shadow: 0 2px 0 #6f9a37;
+    position: relative;
+    background-color: var(--primary-bg);
+    color: var(--primary-white);
+    font-size: 14px;
+    padding: 5px 20px;
+    line-height: 1.5;
+    border-radius: 4px;
+    display: inline-block;
+}

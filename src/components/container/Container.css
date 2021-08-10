@@ -1,0 +1,26 @@
+.demo-section{
+    background-color: #fff;
+    min-height: 60vh;
+}
+.demo-section .container{
+    padding: 40px 0;
+}
+.demo-section .demo-heading h2 {
+    color: #333;
+    font-weight: 700;
+    margin: 2rem 0 3rem;
+    font-size: 2.2rem;
+    text-align: center;
+}
+.demo-section .demo-desc h2{
+    color : #353535;
+    font-size: 20px;
+    margin : 25px 0
+}
+.img-fluid{
+    max-width: 100%;
+    height:auto
+}
+.demo-section .demo-thumbnail img{
+    box-shadow: 4px 4px 10px 0px rgb(178 178 178 / 40%);
+}

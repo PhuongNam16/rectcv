@@ -1,0 +1,52 @@
+header {
+    margin-top: 54px;
+    position: static;
+    background-image: url("https://demo.themesuccess.com/templates/rectcv/assets/images/background_pattern.svg");
+    height: 60vh;
+}
+.preview-banner-area{
+   
+    overflow: hidden;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.preview-banner-area .container{
+    
+    color: #fff
+}
+.box-container{
+    height: 100%;
+    padding: 66px 0px 0px 0px;
+}
+h1{
+    font-weight: 600;
+    color: #F0F0F0;
+    font-size: 45px;
+}
+h1 span{
+    color: #f07f81;
+    display: inline-block;
+}
+p{
+    color: #b5b5b5;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.btn-primary{
+    color: #fff;
+    background-color: #f07f81;
+    border: 1px solid #f07f81;
+}
+.btn {
+    display: inline-block;
+    text-align: center;
+    border-radius: 0;
+    padding: 10px 25px;
+    outline: none;
+    font-weight: 500;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}

@@ -1,0 +1,69 @@
+.background_gpattern {
+    background-image: url("https://demo.themesuccess.com/templates/rectcv/layouts/assets/images/background_pattern.svg")
+}
+
+section {
+    padding: 100px 0px;
+}
+
+section .section-title, div.section .section-title {
+    position: relative;
+    margin-bottom: 3rem;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+section .section-title h2.text_background, div.section .section-title h2.text_background {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 700;
+    z-index: 2;
+    font-size: 3em;
+    margin: 3rem 0 1rem;
+}
+
+section .section-title h2.text_background span.heading_background, 
+div.section .section-title h2.text_background span.heading_background {
+    position: absolute;
+    display: block;
+    width: 100%;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    top: 0;
+    font-size: 140px;
+    font-weight: 900;
+    line-height: 0.1;
+    z-index: 1;
+}
+
+section .section-title h2.text_background span.heading_background, 
+div.section .section-title h2.text_background span.heading_background {
+    color: transparent;
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.05);
+}
+section.about .about-info span.desc {
+    color: #F0F0F0;
+}
+section.about .about-info span.desc {
+    margin: 0;
+    font-weight: 600;
+    opacity: 1;
+}
+section.about .about-info span {
+    color: #b5b5b5;
+}
+section.about .about-info span {
+    margin-left: 2px;
+}
+.content{
+    align-items: left;
+    text-align: left;
+}
+.btn-outline-primary:hover {
+    background: #f07f81;
+    border-color: #f07f81;
+    color: #fff;
+}

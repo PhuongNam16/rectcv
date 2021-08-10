@@ -1,0 +1,84 @@
+.header-wraper{
+    position: relative;
+    background-color: var(--bg-dark);
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+.main-info{
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Roboto Condesed", sans-serif;
+}
+.heading-zone h1{
+    position: relative;
+    padding: 16px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 0;
+    border: 1px solid #F0F0F0;
+    font-weight: 600;
+    color: #F0F0F0;
+}
+.heading-zone{
+    margin-bottom: 15px;
+}
+
+.typed-text, p{
+    color: #f8f9fa;
+    font-size: 16px;
+}
+
+.scroll-down {
+    position: absolute;
+    z-index: 10;
+    bottom: 40px;
+    width: 100%;
+    left: 0;
+}
+.btn-primary:hover{
+    border: 1px solid #f07f81;
+      color: #f07f81;
+      background:#6e3030 ;
+      font-weight: 500;
+  }
+.scroll-down .scroll-mouse {
+    border: 2px solid #6e3030;
+}
+.scroll-down .scroll-mouse {
+    width: 30px;
+    height: 50px;
+    border-radius: 20px;
+    position: relative;
+    display: inline-block;
+    border: 2px solid #f8f9fa;
+}
+.scroll-down .scroll-mouse .whell {
+    background-color: #f8f9fa;
+}
+.scroll-down .scroll-mouse .whell {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    left: 50%;
+    top: 4px;
+    -webkit-animation: scroll 1s linear 0.5s infinite backwards;
+    animation: scroll 1s linear 0.5s infinite backwards;
+}
+.scroll-down .scroll-title {
+    font-weight: 500;
+    font-size: 13px;
+    margin-bottom: 8px;
+    color:#f8f9fa
+}
