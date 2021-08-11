@@ -1,0 +1,27 @@
+.portfolio-item .item-box {
+    position: relative;
+    cursor: pointer;
+}
+.portfolio-item .item-box .item-details {
+    background-color: rgba(0, 0, 0, 0.65);
+}
+.portfolio-item .item-box .item-details {
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    flex-direction: row;
+    
+}
+.portfolio-item .item-box .item-details:hover {
+    opacity: 0.9;
+}
+.item-box{
+    border-radius: 0;
+    background : none !important;
+}

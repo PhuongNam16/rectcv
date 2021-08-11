@@ -1,0 +1,92 @@
+.resume-list li:before {
+    border: 2px solid #31383d;
+}
+.resume-list li{
+    position: relative;
+    padding: 0 15px 50px 40px;
+}
+.resume-list li:before {
+    content: "";
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: 3px;
+    top: 4px;
+}
+.resume-list h4 {
+    color: #f07f81;
+}
+
+.resume-list h4 {
+    font-weight: 500;
+}
+.resume-list h4 {
+    font-size: 18px;
+    font-family: inherit;
+}
+.resume-list span.time {
+    color: #F0F0F0;
+    font-weight: 300;
+}
+
+.resume-list span.time {
+    font-size: 0.875em;
+    opacity: 1;
+}
+.resume-list li:after {
+    background-color: #31383d;
+    width: 2px;
+    height: calc(100% - 43px);
+    border-radius: 3px;
+    top: 33px;
+    left: 10px;
+}
+
+.resume-list li:after {
+    content: "";
+    position: absolute;
+}
+.box-left{
+    text-align: left;
+}
+.resume-list span{
+    color: #fff;
+}
+.skill .progress {
+    background-color: #252b2f;
+    height: 6px;
+    border-radius: 0;
+    padding: 2px;
+}
+.skill .progress-bar {
+    background-color: #f07f81;
+}
+.progress {
+    display: -ms-flexbox;
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+}
+.skill .progress-bar {
+    width: 0;
+    -webkit-transition: all 1.5s ease-in-out;
+    transition: all 1.5s ease-in-out;
+}
+.progress-bar {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #007bff;
+    transition: width .6s ease;
+}

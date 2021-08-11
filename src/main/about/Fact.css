@@ -1,0 +1,33 @@
+/* .background_section{
+    background-image: url("https://demo.themesuccess.com/templates/rectcv/layouts/assets/images/background_2.jpg")
+} */
+section, div.section {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-box-shadow: inset 0 0 0 2000px rgb(30 35 38 / 70%);
+    box-shadow: inset 0 0 0 2000px rgb(30 35 38 / 70%);
+    -webkit-appearance: none;
+    position: relative;
+    padding: 100px 0px;
+}
+.icon-mbri{
+    width:56px;
+    height: 56px
+}
+.fact-icon {
+    color: var(--primary);
+    font-size: 3.5rem;
+}
+.fact-info {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+.fact-single {
+    line-height: 1.5;
+    color: #f0f0f0;
+}
+.fact-meta{
+    font-family: "Open Sans", sans-serif;
+}

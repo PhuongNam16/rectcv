@@ -1,0 +1,11 @@
+footer.horizontal-footer {
+    background-color: #1e2326;
+    width: 100%;
+}
+footer.horizontal-footer .copyright-text {
+    font-size: 14px;
+    font-weight: 300;
+}
+b, strong {
+    font-weight: bolder;
+}

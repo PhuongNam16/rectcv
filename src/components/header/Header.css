@@ -6,8 +6,15 @@
     z-index: 100;
     /* position:fixed;
     top: 0;
-    width: 100%;
-    margin-bottom: 1px; */
+    width: 100%; */
+    /* margin-bottom: 1px; */
+   
+}
+.preview-header{
+ position: relative;
+ justify-content: space-between;
+    background-color: var(--primary-bg-main);
+    z-index: 100;
 }
 .preview_logo{
     padding: 0 20px;

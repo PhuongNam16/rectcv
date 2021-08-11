@@ -1,0 +1,39 @@
+.contact {
+    background-color: #252b2f;
+}
+.contact-icon {
+    color: #f07f81;
+}
+.contact-icon {
+    font-size: 2.6rem;
+    min-width: 50px;
+    text-align: right;
+    /* margin-right: 20px; */
+}
+.contact-details{
+    text-align: left;
+}
+.contact-details a{
+    color: #fff
+}
+.contact-details a:hover{
+    color: #f07f81;
+}
+.form-control{
+    height:50px;
+    background-color: transparent;
+    border:1px solid #31383d;
+    color: #f0f0f0;
+    border-radius:0px;
+    font-size:1rem
+}
+textarea .form-control{
+    height: auto;
+}
+textarea {
+    overflow: auto;
+    resize: vertical;
+}
+.btnarea{
+    text-align: right;
+}

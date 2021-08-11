@@ -1,0 +1,16 @@
+.blog .card{
+    background-color: transparent;
+    border: 1px solid rgba(145, 141, 141, 0.125);
+}
+.blog .card-img-top img{
+    width:508px;
+    height:336px
+}
+.blog .card-title {
+   color: #fff;
+   font-size: 22px;
+}
+.blog .card-body {
+    text-align: left;
+    padding :1.5rem
+}

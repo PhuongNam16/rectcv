@@ -1,0 +1,13 @@
+.services-sigle{
+    background-color: transparent;
+    border: 1px solid #31383d;
+    background-color: #1e2326;
+    cursor: pointer;
+    align-items: center;
+    border-radius: 0
+}
+.services-sigle .services-icon{
+    font-size: 2.5rem;
+    transition: all 0.3s ease-in-out;
+    color: var(--primary);
+}

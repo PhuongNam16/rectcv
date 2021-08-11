@@ -73,13 +73,13 @@ const About = () => {
                       Download CV
                     </a>
                   </Col>
-                  <Col xs={6} className="d-inline-block">
-                    <ul>
-                      <li><a href="#"><FaFacebookF /></a></li>
-                      <li><a href="#"><ImLinkedin2 /></a></li>
-                      <li><a href="#"><FaPinterestP /></a></li>
-                      <li><a href="#"><AiOutlineGithub /></a></li>
-                      <li><a href="#"><GrTumblr /></a></li>
+                  <Col xs={6} >
+                    <ul className="social-icons d-flex mt-4 mt-xl-0">
+                      <li className="list-inline-item"><a href="#"><FaFacebookF /></a></li>
+                      <li className="list-inline-item"><a href="#"><ImLinkedin2 /></a></li>
+                      <li className="list-inline-item"><a href="#"><FaPinterestP /></a></li>
+                      <li className="list-inline-item"><a href="#"><AiOutlineGithub /></a></li>
+                      <li className="list-inline-item"><a href="#"><GrTumblr /></a></li>
                     </ul>
                   </Col>
                 </Row>
