@@ -86,7 +86,7 @@ const Contacts = () => {
                         name="name"
                         id="name"
                         className="form-control"
-                        placeholder="Rmail"
+                        placeholder="Email"
                         autuComplate="off"
                       />
                     </div>
