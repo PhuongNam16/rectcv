@@ -1,0 +1,35 @@
+[33mcommit 953351a65e0a4d1467d22cdaaa5b5b25b3ae42ef[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: PhuongNam16 <phuongnamhd00@gmail.com>
+Date:   Thu Aug 12 17:36:32 2021 +0700
+
+    edit some details
+
+[33mcommit 9a1193ffeb4e2f3c0fd9ea693b966d627d99d8d4[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: PhuongNam16 <phuongnamhd00@gmail.com>
+Date:   Thu Aug 12 09:40:32 2021 +0700
+
+    update responsive
+
+[33mcommit 979458cee02d81052723e280a9455771bfd77d08[m
+Author: PhuongNam16 <phuongnamhd00@gmail.com>
+Date:   Thu Aug 12 00:25:11 2021 +0700
+
+    edit some tags
+
+[33mcommit 97b40d37ce98cc87bed029b64683765b0961fe9b[m
+Author: PhuongNam16 <phuongnamhd00@gmail.com>
+Date:   Thu Aug 12 00:11:56 2021 +0700
+
+    clone rectcv
+
+[33mcommit a3644453c22a411d77b727d74731be984fe7f528[m
+Author: PhuongNam16 <phuongnamhd00@gmail.com>
+Date:   Tue Aug 10 09:07:46 2021 +0700
+
+    rectcvUI
+
+[33mcommit 65c8a43c0118c66479d376b60f6e1bec903e3a44[m
+Author: PhuongNam16 <phuongnamhd00@gmail.com>
+Date:   Fri Aug 6 11:09:03 2021 +0700
+
+    Initialize project using Create React App

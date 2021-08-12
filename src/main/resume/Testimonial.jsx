@@ -42,9 +42,9 @@ const Testimonial = () => {
               </Col>
             </Row>
             <div class="owl-dots">
-              <button role="button" class="owl-dot"><span /></button>
-              <button role="button" class="owl-dot"><span /></button>
               <button role="button" class="owl-dot active"><span /></button>
+              <button role="button" class="owl-dot"><span /></button>
+              <button role="button" class="owl-dot"><span /></button>
             </div>
           </Col>
         </Row>
