@@ -22,7 +22,7 @@ const Blog = () => {
     }
   ])
   return (
-    <section className="blog background_gpattern">
+    <section className="blog background_gpattern" id="blog">
       <div className="container justify-content-between flex-column h-100">
         <div className="section-title">
           <Row>

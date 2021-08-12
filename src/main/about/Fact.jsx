@@ -17,7 +17,7 @@ const Fact = () => {
     >
       <div className="container">
         <Row>
-          <Col xs={3}>
+          <Col lg={3} md={12}>
             <div className="fact-single">
               <div className="fact-icon">
                 <span class="mbri-timer">
@@ -40,7 +40,7 @@ const Fact = () => {
               </div>
             </div>
           </Col>
-          <Col xs={3}>
+          <Col lg={3} md={12}>
             <div className="fact-single">
               <div className="fact-icon">
                 <span class="mbri-timer">
@@ -63,7 +63,7 @@ const Fact = () => {
               </div>
             </div>
           </Col>
-          <Col xs={3}>
+          <Col lg={3} md={12}>
             <div className="fact-single">
               <div className="fact-icon">
                 <span class="mbri-timer">
@@ -85,7 +85,7 @@ const Fact = () => {
               </div>
             </div>
           </Col>
-          <Col xs={3}>
+          <Col lg={3} md={12}>
             <div className="fact-single">
               <div className="fact-icon">
                 <span class="mbri-timer">

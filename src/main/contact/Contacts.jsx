@@ -4,7 +4,7 @@ import './Contacts.css';
 import {BsPhone, ImMap2, IoMailOutline} from 'react-icons/all';
 const Contacts = () => {
   return (
-    <section className="contact">
+    <section className="contact" id="contact">
       <div className="container justify-content-between flex-column h-100">
         <div className="section-title">
           <Row>

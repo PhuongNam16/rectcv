@@ -17,28 +17,28 @@ const Header = () => {
           <Nav.Link href="/home">Home</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link href="#">About</Nav.Link>
+          <Nav.Link href="#about">About</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link eventKey="link-2">Services</Nav.Link>
+          <Nav.Link href="#services">Services</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link eventKey="link-3">
+          <Nav.Link href="#portfolio">
             Protfolio
           </Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link eventKey="link-4">
+          <Nav.Link href="#resume">
             Resume
           </Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link eventKey="link-5">
+          <Nav.Link href="#blog">
             Blog
           </Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link eventKey="link-6">
+          <Nav.Link href="#contact">
             Contact
           </Nav.Link>
         </Nav.Item>

@@ -43,7 +43,7 @@ const Services = () => {
 
   ])
   return (
-    <section className="services background_gpattern">
+    <section className="services background_gpattern" id="services">
       <div className="container justify-content-between flex-column h-100">
         <div className="section-title">
           <Row>

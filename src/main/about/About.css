@@ -2,6 +2,10 @@ section {
     padding: 100px 0px;
 }
 
+section.about .avatar-area {
+    max-width: 400px;
+}
+
 section .section-title, div.section .section-title {
     position: relative;
     margin-bottom: 3rem;
@@ -20,8 +24,7 @@ section .section-title h2.text_background, div.section .section-title h2.text_ba
     margin: 3rem 0 1rem;
 }
 
-section .section-title h2.text_background span.heading_background, 
-div.section .section-title h2.text_background span.heading_background {
+section .section-title h2.text_background span.heading_background, div.section .section-title h2.text_background span.heading_background {
     position: absolute;
     display: block;
     width: 100%;
@@ -35,44 +38,53 @@ div.section .section-title h2.text_background span.heading_background {
     z-index: 1;
 }
 
-section .section-title h2.text_background span.heading_background, 
-div.section .section-title h2.text_background span.heading_background {
+section .section-title h2.text_background span.heading_background, div.section .section-title h2.text_background span.heading_background {
     color: transparent;
     -webkit-text-stroke: 1px rgba(255, 255, 255, 0.05);
 }
+
 section.about .about-info span.desc {
     color: #F0F0F0;
 }
+
 section.about .about-info span.desc {
     margin: 0;
     font-weight: 600;
     opacity: 1;
 }
+
 section.about .about-info span {
     color: #b5b5b5;
 }
+
 section.about .about-info span {
     margin-left: 2px;
 }
-.content{
+
+.content {
     align-items: left;
     text-align: left;
 }
+
 .btn-outline-primary:hover {
     background: #f07f81;
     border-color: #f07f81;
     color: #fff;
 }
+
 .social-icons {
     margin: 0;
     display: inline-block;
 }
+
 .social-icons .list-inline-item:not(:last-child) {
     margin-right: 5px;
 }
+
 .social-icons li a {
     border: 1px solid #31383d;
 }
+
 .social-icons li a {
     display: block;
     width: 40px;
@@ -80,5 +92,17 @@ section.about .about-info span {
     font-size: 1em;
     line-height: 40px;
     text-align: center;
-    color : #fff;
+    color: #fff;
+}
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+}
+@media (max-width: 992px) {
+    section .section-title h2.text_background span.heading_background {
+        font-size: 40px;
+        top: -36%;
+    }
+
+
 }
