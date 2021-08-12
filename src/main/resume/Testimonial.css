@@ -1,0 +1,47 @@
+.testimonial-box {
+    border: 2px solid #1e2326;
+    line-height: 23.5px;
+    background-color: #1e2326;
+}
+.testimonial-box {
+    line-height: 23.5px;
+}
+.testimonial-box .testimonial_icon {
+    color: #f07f81;
+    font-size: 3rem;
+}
+.testimonial-box .author_picture {
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+.testimonial-box .author_picture {
+    width: 70px;
+    height: 70px;
+}
+.testimonial-box .author_info{
+    margin-left: 1rem;
+}
+.testimonial-box .author_info h3 {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+.mbri-quote-left{
+    font-size: 48px;
+    color: #f07f81;
+    
+}
+.owl-dots {
+    margin-top: 10px;
+    text-align: center;
+}
+button .owl-dot {
+background: 0 0;
+    color: inherit;
+    border: none;
+    padding: 0!important;
+    font: inherit;
+}
+.owl-dots .owl-dot {
+    outline: none;
+}

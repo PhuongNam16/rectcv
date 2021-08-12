@@ -3,7 +3,7 @@ import {Col, Row} from 'react-bootstrap';
 import './Container.css';
 import data from '../../data/data.json';
 import {useState} from 'react';
-
+// import Layout from '../../Layouts'
 const dataMain = data.imageData;
 const Container = () => {
   const [data, setdata] = useState (dataMain);
@@ -15,10 +15,10 @@ const Container = () => {
         </div>
         <Row>
         {data.map (item => (
-            <Col xs={6} className="p-4" key={item.id}>
+            <Col xs={12} md={6}  className="p-4" key={item.id}>
               <div className="demo-thumbnail">
-                <a href="">
-                  <img src={item.img} alt="" className="img-fluid" />
+                <a href="#layout" target="_blank">
+                  <img src={item.img} alt="image" className="img-fluid" />
                 </a>
               </div>
               <div className="demo-desc">
